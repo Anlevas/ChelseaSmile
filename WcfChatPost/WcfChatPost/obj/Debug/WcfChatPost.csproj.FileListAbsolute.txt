@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\WcfChatPost\bin\Debug\WcfChatPost.dll.config
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\WcfChatPost\bin\Debug\WcfChatPost.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\WcfChatPost\bin\Debug\WcfChatPost.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\WcfChatPost\obj\Debug\WcfChatPost.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\WcfChatPost\obj\Debug\WcfChatPost.pdb

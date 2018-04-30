@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\bin\Debug\ChatClient.exe.config
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\bin\Debug\ChatClient.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\bin\Debug\ChatClient.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\bin\Debug\WcfChatPost.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\bin\Debug\WcfChatPost.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\obj\x86\Debug\ChatClient.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\obj\x86\Debug\ChatClient.LoginForm.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\obj\x86\Debug\ChatClient.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\obj\x86\Debug\ChatClient.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\obj\x86\Debug\ChatClient.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\WcfChatPost\ChatClient\obj\x86\Debug\ChatClient.pdb
